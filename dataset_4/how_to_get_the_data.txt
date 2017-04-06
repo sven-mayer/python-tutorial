@@ -1,0 +1,5 @@
+In order to use this code you need to recorde your own data using "Notification Log". 
+* Get "Notification Log" from https://play.google.com/store/apps/details?id=org.hcilab.projects.nlog
+* Record your data
+* export the data
+* change DATA_URL to yout datapath
